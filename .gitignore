@@ -1,0 +1,19 @@
+# Archivos compilados
+*.class
+out/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos locales (no subir)
+arquitectura_sistema_notificaciones.md
+notas_defensa.md
